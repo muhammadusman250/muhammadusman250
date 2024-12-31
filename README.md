@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Usman Farooq, a Software Engineering student.
 - 👀 I’m interested in web development, especially front-end technologies.
-- 🌱 I’m currently learning advanced JavaScript frameworks and improving my TypeScript skills.
+- 🌱 I’m currently learning advanced JavaScript frameworks and improving my Nextjs with Sanity skills.
 - 💞️ I’m looking to collaborate on interactive and visually appealing web projects.
 - 📫 How to reach me: You can reach me via email at muhammadusmanmemon2008@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him
